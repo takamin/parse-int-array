@@ -1,0 +1,21 @@
+{
+  "name": "parse-int-array",
+  "version": "0.9.0",
+  "description": "Parse a string to an integer array",
+  "main": "parse-int-array.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "parseInt",
+    "number",
+    "parser",
+    "integer",
+    "number"
+  ],
+  "author": "Koji Takami <vzg03566@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
