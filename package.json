@@ -1,6 +1,6 @@
 {
   "name": "parse-int-array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse a string to an integer array",
   "main": "parse-int-array.js",
   "scripts": {
